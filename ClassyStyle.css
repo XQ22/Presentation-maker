@@ -1,0 +1,29 @@
+body {
+  background-color: #252630;
+  color: #acaeb2;
+}
+  
+h1, h2 {
+  font-family: Arial, Helvetica Neue, monospace;
+}
+
+p {
+  font-family: Helvetica, Arial, monospace;
+}
+
+button {
+  border: none;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  background-color: #454650;
+  border-radius: 8px;
+  color: #bcbec2;
+}
+
+button:hover {
+  color: #ccced2;
+}
+
+button:active {
+  color: #eceef2;
+}
